@@ -1,0 +1,49 @@
+.cricketerStyle{
+    display:flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align:left;
+}
+.cricketerStyle img{
+    margin-right: 20px;
+}
+
+.cricketerInfo{
+    color:#DC143C;
+    font-weight: 400px;
+    padding-left: 10px;;
+}
+
+.cricketerInfo small{
+    font-size: 15px;
+    padding-left: 8px;
+}
+
+
+.add-btn {
+    outline: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    border: 1px solid transparent;
+    background: goldenrod;
+    transition: .2s linear;
+}
+.add-btn:hover {
+    color: #721bfd;
+    background: #fff;
+    border: 1px solid #721bfd;
+    transform: translateY(-2px);
+    box-shadow: 3px 3px 10px 0 #4500b462;
+}
+
+.add-btn.disabled{
+    pointer-events: none;
+    background: #a36aff;
+}

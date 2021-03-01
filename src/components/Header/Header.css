@@ -1,0 +1,29 @@
+
+
+.headerStyle h1{
+ padding-top: 60px;
+ padding-bottom: 20px;    
+ color:dodgerblue;
+ font-weight: 700px;
+}
+ 
+
+
+nav a{
+    text-decoration: none;
+    margin-left: 15px;
+    color:antiquewhite;
+    padding: 10px;
+}
+
+nav a:hover{
+    background-color:coral;
+    border: 1px solid #721bfd;
+    border-radius: 5px;
+    transform: translateY(-2px);
+    box-shadow: 1px 1px 5px 0 #4500b462;
+}
+
+
+
+

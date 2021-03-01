@@ -1,0 +1,17 @@
+[
+    {"id":1,"name":"Shakib Al Hasan","team":"Kolkata Knight Riders","salary": 25000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"},
+    {"id":2,"name":"Rohit Sharma","team":"Mumbai Indians","salary": 50000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170658/rohit-sharma.jpg"},
+    {"id":3,"name":"Chris Gayle","team":"Kings XI Punjab","salary": 35000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg"},
+    {"id":4,"name":"Virat Kohli","team":"Royal Challengers Bangalore","salary": 50000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170661/virat-kohli.jpg"},
+    {"id":5,"name":"AB de Villiers","team":"Royal Challengers Bangalore","salary": 40000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170999/ab-de-villiers.jpg"},
+    {"id":6,"name":"Faf du Plessis","team":"Chennai Super Kings","salary": 35000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg"},
+    {"id":7,"name":"Kane Williamson","team":"Sunrisers Hyderabad","salary": 35000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170733/kane-williamson.jpg"},
+    {"id":8,"name":"Josh Hazlewood","team":"Chennai Super Kings","salary": 20000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c151583/josh-hazlewood.jpg"},
+    {"id":9,"name":"Steven Smith","team":"Rajasthan Royals","salary": 30000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg"},
+    {"id":10,"name":"Jasprit Bumrah","team":"Mumbai Indians","salary": 25000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170685/jasprit-bumrah.jpg"},
+    {"id":11,"name":"Kagiso Rabada","team":"Delhi Capitals","salary": 20000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg"},
+    {"id":12,"name":"Pat Cummins","team":"Kolkata Knight Riders","salary": 20000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg"},
+    {"id":13,"name":"Rashid Khan","team":"Sunrisers Hyderabad","salary": 20000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg"},
+    {"id":14,"name":"Shreyas Iyer","team":"Delhi Capitals","salary": 28000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c171024/shreyas-iyer.jpg"},
+    {"id":15,"name":"Rishabh Pant","team":"Delhi Capitals","salary": 23000,"img":"https://www.cricbuzz.com/a/img/v1/152x152/i1/c171010/rishabh-pant.jpg"}
+]
